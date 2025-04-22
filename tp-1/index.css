@@ -1,0 +1,27 @@
+body{
+    margin-left: 13em;
+    margin-right: 13em;
+    margin-top: 4em;
+}
+a{
+    text-decoration:none;
+    color:dodgerblue;
+}
+.texto{
+    font-size: 1.3em;
+}
+img{
+    width: 14em;
+}
+.infobox{
+    text-align: center;
+    width: 20em;
+    clear: right;
+    float: right;
+    border: 1px solid #B4BBC8;
+    margin: .5em 0 .7em 1.2em;
+    box-sizing: border-box;
+}
+i{
+    font-size: 1.1em;
+}
